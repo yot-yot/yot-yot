@@ -23,7 +23,7 @@ Visual Studio <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=
 
 IntelliJ IDEA <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 
-Discord <img src="https://img.shields.io/badge/욧욧#8117-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+Discord <img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
 KakaoTalk <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 
