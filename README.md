@@ -27,6 +27,6 @@ Discord <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&
 
 KakaoTalk <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 
-Gmail <img src="https://img.shields.io/badge/GmailGmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
+Gmail <img src="https://img.shields.io/badge/GmailGmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yotyot-github&show_icons=true&theme=radical)
