@@ -5,7 +5,7 @@
 - Learn JAVA
 - Learn C#
 
-## Code Language, Programs, Platform 📊
+## Code Languages
 
 Node.js <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
@@ -17,11 +17,15 @@ C++ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++
 
 Python <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+## IDEs
+
 Visual Studio Code <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 Visual Studio <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
 IntelliJ IDEA <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+
+## Platforms
 
 Discord <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 
