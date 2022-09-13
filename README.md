@@ -33,4 +33,6 @@ KakaoTalk <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-squ
 
 Gmail <img src="https://img.shields.io/badge/venice6049@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
+## Stats chart
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yotyot-github&show_icons=true&theme=radical)
