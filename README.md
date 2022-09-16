@@ -30,4 +30,4 @@
 
 ------
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=footer&text=yotyot%20GitHub&fontSize=1&animation=fadeIn&rotate=180" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=1&section=footer&text=yotyot%20GitHub&fontSize=1&animation=fadeIn&rotate=180" />
