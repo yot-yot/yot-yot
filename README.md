@@ -38,3 +38,7 @@
 ## Stats Chart
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yot-yot&show_icons=true&theme=radical)
+
+## Languages Chart
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yot-yot)](https://github.com/yot-yot/github-readme-stats)
