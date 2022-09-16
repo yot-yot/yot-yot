@@ -1,5 +1,8 @@
 # Welcome to my Github! 📁
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=yotyot%20GitHub&fontSize=85&animation=fadeIn" />
+
+
 ## Goal 🎯
 - Complete my Discord Bot
 
@@ -39,6 +42,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yot-yot&show_icons=true&theme=radical)
 
-## Languages Chart
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yot-yot)](https://github.com/yot-yot/github-readme-stats)
