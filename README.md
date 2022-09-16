@@ -28,6 +28,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yot-yot&show_icons=true&theme=radical)
 
-------
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=10&section=footer&text=yotyot%20GitHub&fontSize=1&animation=fadeIn&rotate=180" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=10&section=footer&text=Yagami%20light%20GitHub&fontSize=1&animation=fadeIn&rotate=180" />
