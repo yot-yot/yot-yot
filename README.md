@@ -6,7 +6,7 @@
 ## Goal 🎯
 - Complete my Discord Bot
 
-- Learn JAVA
+- Learn Rust
 
 - Learn C#
 
