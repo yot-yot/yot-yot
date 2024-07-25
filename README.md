@@ -4,11 +4,8 @@
 
 
 ## Goal 🎯
-- Complete my Discord Bot
 
 - Learn Rust
-
-- Learn C#
 
 ## Tech Stacks 🌐
 
